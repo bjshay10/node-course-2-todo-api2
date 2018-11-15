@@ -25,4 +25,3 @@ app.listen(3000, () => {
     console.log(`Started on port 3000`);
 });
 
-//https://maps.googleapis.com/maps/api/geocode/json?address=611+waverly+ln+grand junction+co&key=AIzaSyCB0NOTqo_UJrj6zWWwEz0pJZ2dWWvF42o
